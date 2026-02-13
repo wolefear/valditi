@@ -36,8 +36,8 @@ function startMemorySlideshow() {
         clearInterval(interval);
         showPage('page4'); // Go to final message
       }
-    }, 800); // Fade-out duration
-  }, 7000); // 7 seconds per memory page
+    }, 1000); // Fade-out duration
+  }, 6000); // 6 seconds per memory page
 }
 
 // Audio control
