@@ -141,6 +141,7 @@ body:after {
     justify-content: center;
     text-align: center;
     position: relative;
+    margin: 0 auto;
 }
 
 .page.active {
